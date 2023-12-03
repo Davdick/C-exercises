@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+C:\Users\crzym\Documents\CURSOS\C_PLUS_PLUS\OperadoresLogicos\OperadoresLogicos\Source1.cpp(1,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+Source1.obj : error LNK2005: ya se definió main en Source.obj
+C:\Users\crzym\Documents\CURSOS\C_PLUS_PLUS\OperadoresLogicos\x64\Debug\OperadoresLogicos.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente
